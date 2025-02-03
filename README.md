@@ -1,8 +1,6 @@
-# 📈 📊 👣 🪵 Cloud Operations Sandbox
+# 📈 📊 👣 🪵 GCP Oberservability Sandbox
 
-> [!WARNING]
-> **The project was discontinued on August 2024.**
->
+
 > If you are looking for sample application to try [Observability in Google Cloud](https://cloud.google.com/stackdriver/docs)
 > consider using [Cymbal Shop](https://github.com/GoogleCloudPlatform/microservices-demo) with its [Cloud Ops component](https://github.com/GoogleCloudPlatform/microservices-demo/tree/main/kustomize/components/google-cloud-operations)
 > or [OpenTelemetry demo](https://github.com/GoogleCloudPlatform/opentelemetry-demo).
